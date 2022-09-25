@@ -1,0 +1,9 @@
+Verde Oscuro:  159, 146,126
+
+Verde Claro: 207, 208, 193
+
+Celeste: 217, 226, 221
+
+Rosa Oscuro: 238, 200, 197
+
+Rosa Claro: 244, 219, 214
