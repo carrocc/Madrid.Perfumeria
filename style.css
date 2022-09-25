@@ -8,7 +8,20 @@
 body {
     background-color: rgb(217, 226, 221);
 }
-    
+
+a:link {
+  color: rgb(217, 226, 221);
+  background-color: rgb(159, 146,126);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(217, 226, 221);
+  background-color: rgb(159, 146,126);
+  text-decoration: none;
+}
+
+
 header, footer {
     background-color:rgb(159, 146,126);
     padding: 10px;
@@ -79,26 +92,3 @@ tr {
     max-width: 200px;
   }
 
-  a:link {
-    color: rgb(159, 146,126);
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
-    color: rgb(159, 146,126);
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: rgb(159, 146,126);
-    background-color: transparent;
-    text-decoration: underline;
-  }
-  
-  a:active {
-    color: rgb(159, 146,126);
-    background-color: transparent;
-    text-decoration: underline;
-  }
